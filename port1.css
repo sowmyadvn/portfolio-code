@@ -1,0 +1,104 @@
+body{
+  font-family: Open Sans;
+}
+
+#name{
+  font-family: 'Poiret One', cursive;
+}
+
+#name:hover{
+  color: #cd5360;
+}
+
+#home{
+  background: url("https://www.walldevil.com/wallpapers/a82/wallpaper-graphic-design-colorful-square-background-texture-art-desktop-minimalist-black.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.header {
+  padding-top: 20%;
+  padding-bottom: 25%;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+  font-family: Georgia;
+}
+
+.info-background {
+  background-color: #F1F2F0;
+  background-size: cover;
+}
+
+.info {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color: #4F5458;
+}
+
+.larger-font {
+  font-size: 24px;
+}
+
+.smaller-font {
+  font-size: 16px;
+}
+
+.portfolio {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  color: #F1F2F0;
+  background-color: #4F5458;
+  background-size: cover;
+}
+
+
+.well {
+  background: transparent;
+  border: none;
+  padding: 5px;
+  color: black;
+}
+
+.well:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+
+#contact {
+  text-align: center;
+  background: #f4f4f4;
+  color: black;
+  font-family: 'Poiret One', cursive;
+  font-size: 10vh;
+  padding-top: 30px;
+}
+
+.social-icon {
+  color: black;
+  padding: 40px;
+}
+
+.fa-github:hover {
+  color: #313335;
+}
+
+.fa-linkedin:hover {
+  color: #0077b5;
+}
+
+.fa-fire:hover {
+  color: #228B22;
+}
+
+.fa-envelope:hover {
+  color: #ea4335;
+}
+
+.footer {
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
